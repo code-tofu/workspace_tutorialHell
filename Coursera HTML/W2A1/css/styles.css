@@ -1,0 +1,57 @@
+/* commenting in css */
+
+* {
+margin:0;
+padding: 0;
+}
+
+body{
+	font-size:  24px;
+	color: #000000;
+	font-family: 'Patrick Hand', cursive;
+}
+
+h1{
+	font-size: 175%;
+	text-align: center
+}
+
+
+#sh1 {
+	color: #FFC0CB;
+	font-weight: bold;
+	font-size: 125%;
+}
+
+#sh2 {
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 125%;
+}
+
+#sh3 {
+	color: #ffff00;
+	font-weight: bold;
+	font-size: 125%;
+}
+
+#box1{
+	background-color:#808080;
+	/*padding: 5px 5px 5px 5px;*/
+	border: 3px solid black;
+	width: 33%;
+}
+
+#box2{
+	background-color:#808080;
+	/*padding: 5px 5px 5px 5px;*/
+	border: 3px solid black;
+	width: 33%;
+}
+
+#box3{
+	background-color:#808080;
+	/*padding: 5px 5px 5px 5px;*/
+	border: 3px solid black;
+	width: 33%;
+}
